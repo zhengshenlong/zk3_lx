@@ -9,7 +9,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>config_server</module>
-        <module>config-repo</module>
+        <module>eureka_server</module>
+        <module>getawey_server</module>
+        <module>tps_service</module>
     </modules>
     <packaging>pom</packaging>
     <parent>
